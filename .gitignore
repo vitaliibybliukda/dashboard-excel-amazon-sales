@@ -1,0 +1,16 @@
+# Excel / Office TEMP FILES
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.docx
+*.tmp
+*.log
+
+# SYSTEM FILES
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# COPY
+*.bak
+*~
