@@ -42,7 +42,7 @@ This project demonstrates an end-to-end data analytics workflow: from raw data c
 ---
 
 ## 📁 Project Structure
-
+```
 📁 dashboard-excel-amazon-sales/
 │
 ├── 📄 README.md ← Project documentation (this file)
@@ -64,7 +64,7 @@ This project demonstrates an end-to-end data analytics workflow: from raw data c
 └── 📁 images/
 ├── 🖼️ dashboard_preview.png ← Main dashboard screenshot
 └── 🖼️ data_model.png ← Table relationships diagram
----
+```
 
 ## 🚀 How to Use
 
@@ -75,8 +75,8 @@ This project demonstrates an end-to-end data analytics workflow: from raw data c
 ### Quick Start:
 1.  **Clone or download** the repository:
     ```bash
-    git clone https://github.com/your-username/amazon-sales-excel-dashboard.git
-    ```
+    git clone [https://github.com/your-username/amazon-sales-excel-dashboard.git
+    ```](https://github.com/vitaliibybliukda/dashboard-excel-amazon-sales.git)
 
 2.  **Open the file** `excel_files/dashboard_view.xlsx` in Excel
 
